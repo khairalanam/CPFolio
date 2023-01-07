@@ -25,6 +25,12 @@ CPFolio is a platform where the information about all the coding contests hosted
 <br/>
 ![Contests with Codeforces page](https://user-images.githubusercontent.com/84736189/211146392-ec7d566d-45a3-42f4-a22b-9d4ad66dd5d5.PNG)
 
+## Video Demo
+
+
+https://user-images.githubusercontent.com/84736189/211147585-52f414da-5a36-454b-a3f4-2c7243f31f8f.mp4
+
+
 ## Technologies used
 
 * HTML5
