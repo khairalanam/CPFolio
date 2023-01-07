@@ -9,12 +9,12 @@ CPFolio is a platform where the information about all the coding contests hosted
 
 ## Problem
 
-* The idea of going through each platform, finding the contest for you and repeating it for other platforms in case you couldn't find one, is a very tedious task.
+* The idea of going through each platform, finding the contest for you, and repeating it for other platforms in case you couldn't find one, is a very tedious task.
 * Students waste a lot of time just going through contests' information rather than actual preparations for the contests.
 
 ## Solution
 
-* With CPFolio, one can easily find the information of all the coding contests from different platforms in one place, making it an easy task.
+* With CPFolio, one can easily find information on all the coding contests from different platforms in one place, making it an easy task.
 * With CPFolio, students save a lot of time going through the information. Essential information like the host, start time, end time, etc keep students informed on the contests.
 
 ## Screenshots
