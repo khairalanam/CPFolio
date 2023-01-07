@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CPFolio/static/css/main.e8576d62.css",
-    "main.js": "/CPFolio/static/js/main.e71464a1.js",
+    "main.js": "/CPFolio/static/js/main.e1196497.js",
     "static/media/Man Top.svg": "/CPFolio/static/media/Man Top.fe48f61de03bf99e66e2c3526d454c40.svg",
     "index.html": "/CPFolio/index.html",
     "main.e8576d62.css.map": "/CPFolio/static/css/main.e8576d62.css.map",
-    "main.e71464a1.js.map": "/CPFolio/static/js/main.e71464a1.js.map"
+    "main.e1196497.js.map": "/CPFolio/static/js/main.e1196497.js.map"
   },
   "entrypoints": [
     "static/css/main.e8576d62.css",
-    "static/js/main.e71464a1.js"
+    "static/js/main.e1196497.js"
   ]
 }
